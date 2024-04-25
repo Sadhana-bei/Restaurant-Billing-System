@@ -23,8 +23,8 @@ It helps to maintain efficiency, accuracy, organization and customization.
 
 https://github.com/NirazB/C_Project.git
 
-2.run the project.c file after compiling it 
-To compile the Code use
+2.run the project.c file after compiling it ;to compile the Code use
+
 gcc project.c -o project
 
 3.Run it in terminal with the command .\project
