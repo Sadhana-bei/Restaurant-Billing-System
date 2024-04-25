@@ -1,5 +1,6 @@
 # Restaurant-Billing-System
-C programming mini-project
+C programming mini-project.....
+
 Project name: Restaurant billing system
 Team Members-
 Niraj Bista
