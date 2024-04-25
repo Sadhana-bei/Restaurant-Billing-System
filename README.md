@@ -27,11 +27,12 @@ To study the scope of replacing the manual work by software.
 How to run:
 Clone the repository to your local machine:
 
-git clone https://github.com/
-run the main.c file after compiling it
+https://github.com/NirazB/C_Project.git
 
-To compile the code use gcc main.c -o 
+run the project.c file after compiling it
 
-Run it in terminal with the command .\
+To compile the code use gcc project.c -o project
+
+Run it in terminal with the command .\project
 
 
