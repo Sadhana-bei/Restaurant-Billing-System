@@ -3,8 +3,6 @@ C programming mini-project.....
 
 Project name: Restaurant billing system
 
-
-
 Team Members-(Team#16)
 
 Niraj Bista
@@ -14,9 +12,6 @@ Sadhana Gautam
 Ram Gautam
 
 Prakash Tiwari
-
-
-
 
 Project Description:
 
@@ -28,3 +23,15 @@ The main objective of this project is:
 To provide a friendly environment to maintain the daily transactions of restaurants and cafes.
 
 To study the scope of replacing the manual work by software. 
+
+How to run:
+Clone the repository to your local machine:
+
+git clone https://github.com/
+run the main.c file after compiling it
+
+To compile the code use gcc main.c -o 
+
+Run it in terminal with the command .\
+
+
