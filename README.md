@@ -1,7 +1,7 @@
 # Restaurant-Billing-System
 C programming mini-project.....
 
-**Project name: Restaurant billing system**
+<#**Project name: Restaurant billing system**>
 
 **Team Members-(Team#16)**
 
